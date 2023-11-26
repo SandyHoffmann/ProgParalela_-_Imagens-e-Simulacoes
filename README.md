@@ -1,5 +1,7 @@
 # ProgParalela_-_Imagens-e-Simulacoes
 
+![image](https://github.com/SandyHoffmann/ProgParalela_-_Imagens-e-Simulacoes/assets/60969091/a3495485-c2d8-46e8-b15b-b000f79f3adb)
+
 # Instalações e configurações (Linux)
 
 ## openCV
